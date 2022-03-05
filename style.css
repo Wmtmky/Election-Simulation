@@ -1,0 +1,5 @@
+@import url("https://wmtmky.github.io/style.css");
+
+body {
+    background-color: var(--home-lightMode);
+}
