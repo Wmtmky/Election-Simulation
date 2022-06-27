@@ -1,8 +1,7 @@
-
 // setup page on load
 window.onload = function () {
     setViewport();
-}
+};
 
 // maintain viewport height for soft keyboard on android
 function setViewport () {

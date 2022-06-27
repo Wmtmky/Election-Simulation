@@ -1,5 +1,9 @@
-@import url("https://wmtmky.github.io/style.css");
+
+
+:root {
+    --elecsim-bg: hsl(0deg, 0%, 95%);
+}
 
 body {
-    background-color: var(--home-lightMode);
+    background-color: var(--elecsim-bg);
 }
